@@ -65,3 +65,10 @@ Cada carpeta de sección contiene subcarpetas correspondientes a los capítulos 
 
 - Análisis original: Viri Ríos
 - Migración y refactorización: Diego Olvera
+
+## Licencia
+
+Este repositorio está licenciado bajo la licencia MIT.
+
+Nota: El repositorio R original asociado al libro *No es normal* no especifica ninguna licencia.  
+Este proyecto es una reimplementación independiente en Python y no redistribuye el código original.
