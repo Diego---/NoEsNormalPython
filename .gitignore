@@ -1,0 +1,52 @@
+# ----------------------------------
+# OS / Editor artifacts
+# ----------------------------------
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# ----------------------------------
+# Python artifacts
+# ----------------------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+env/
+
+# ----------------------------------
+# Jupyter
+# ----------------------------------
+.ipynb_checkpoints/
+
+# ----------------------------------
+# Data outputs (keep raw data policy explicit)
+# ----------------------------------
+data/
+tables/
+figures/
+outputs/
+
+# ----------------------------------
+# Logs
+# ----------------------------------
+*.log
+
+# ----------------------------------
+# Temporary / scratch files
+# ----------------------------------
+tmp/
+scratch/
+
+# ----------------------------------
+# Project-specific setup scripts
+# ----------------------------------
+setup_structure.ps1
